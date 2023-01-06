@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./design/)
+![](./design/desktop-result.png)
 
 ### Links
 
@@ -37,7 +37,6 @@ Users should be able to:
 ### Built with
 
 - Semantic HTML5 markup
-- SCSS
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
